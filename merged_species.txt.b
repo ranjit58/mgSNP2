@@ -1,0 +1,10 @@
+ID	CS4_CEC_species	CS4_Col_species	CSW2_CEC_species	CW5_CEC_species	CW5_Col_species	merged_species
+#SampleID	Metaphlan2_Analysis	Metaphlan2_Analysis	Metaphlan2_Analysis	Metaphlan2_Analysis	Metaphlan2_Analysis	0.0
+s__Akkermansia_muciniphila	2.2272	1.22553	3.55487	3.00661	1.11706	0.0
+s__Anaerofustis_stercorihominis	0.04674	0.0245	0.00259	0.0	0.00179	0.0
+s__Anaerostipes_caccae	0.00358	0.00275	0.0046	0.0	0.0	0.0
+s__Anaerostipes_unclassified	0.18582	0.11591	0.07633	0.06853	0.08655	0.0
+s__Aerotruncus_colihominis	0.10865	0.03532	0.08761	0.0	0.0	0.0
+s__Anaerotruncus	0.00202	0.0	0.0136	0.0	0.0	0.0
+s__Anaerofustis_stercorihominis	19.16518	17.25317	61.06954	65.722	68.60711	0.0
+s__Bacteroides_massiliensis	0.0	0.0	0.00153	0.0	0.0	0.0

@@ -1,0 +1,14 @@
+#!/bin/bash
+#SBATCH --partition=medium
+#SBATCH --job-name=mgsnp2
+#SBATCH --nodes=1
+#SBATCH --ntasks-per-node=1
+#SBATCH --share
+#SBATCH --mem=10000
+#SBATCH --time=10:00:00
+#SBATCH --mail-type=FAIL
+#SBATCH --mail-user=rkumar@uab.edu
+
+sh download_hmp.sh
+#sh script.sh
+#sh script_adv.sh
